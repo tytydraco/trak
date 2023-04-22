@@ -1,0 +1,16 @@
+name: trak
+description: A simple framework to use when tracking things.
+version: 1.0.0
+repository: https://github.com/tytydraco/trak
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dev_dependencies:
+  io: ^1.0.4
+  test: ^1.16.0
+  very_good_analysis: any
+
+dependencies:
+  collection: ^1.17.1
+  meta: ^1.9.1
